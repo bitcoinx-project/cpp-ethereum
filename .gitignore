@@ -222,3 +222,5 @@ utils/libscrypt/.deps/
 libethashseal/genesis/\.dirstamp
 
 libethashseal/genesis/\.deps/
+
+\.vscode/
